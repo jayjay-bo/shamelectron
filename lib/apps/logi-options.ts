@@ -3,7 +3,7 @@ import { $ } from "bun";
 import { tmpdir } from "node:os";
 
 export const LogiOptions: AppMeta = {
-  icon: "https://cdn.brandfetch.io/idX2nqEtNo/w/128/h/128/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1756407828651",
+  icon: "https://www.logitech.com/assets/66208/optionsplusicon.png",
   id: "logi-options-stable",
   friendlyName: "Logi Options+",
   twitter: "logitech",
